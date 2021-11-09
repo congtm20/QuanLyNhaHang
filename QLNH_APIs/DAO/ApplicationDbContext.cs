@@ -14,5 +14,6 @@ namespace QLNH_APIs.DAO
 
         }
         DbSet<UserModel> User { get; set; }
+        
     }
 }
